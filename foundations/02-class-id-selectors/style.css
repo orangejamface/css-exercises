@@ -1,0 +1,16 @@
+.class1   {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 149, 149, 0.849);
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+.class3 {
+    font-size: 24px;
+}
+#num4   {
+    font-size: 24px;
+    background-color: rgb(179, 230, 128);
+    font-weight: bold;
+}
